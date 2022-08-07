@@ -1,0 +1,62 @@
+
+body{
+margin:30px;
+}
+
+/*header style*/
+.header{
+    background-color: blanchedalmond;
+    text-align: center;
+    padding: 20px;
+}
+
+/*first border*/
+.Fborder{
+    margin: 30px;
+    padding: 20px;
+    border: 5px solid black;
+}
+
+/*intro image*/
+.introweb{
+    text-align: center;
+}
+
+/*question*/
+.questions{
+    margin: 30px;
+    float: left;
+}
+
+/*format for questionsimg*/
+.column{
+   float:left;
+   width:25%;
+   padding:20px;
+}
+
+/*format for the answer*/
+.maintext{
+    width:75%
+}
+
+/*example image display*/
+.exampleimg{
+    margin:20px;
+    width:200px;
+    border: 1px solid rgb(53, 53, 53);
+    float: left;
+}
+.exampleimg img{
+    padding:10px;
+    height:150px;
+}
+
+.exampleann{
+    padding:10px;
+    text-align:center;
+}
+
+*{
+    box-sizing:border-box;
+}
